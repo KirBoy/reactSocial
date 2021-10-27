@@ -1,0 +1,22 @@
+.postAvatar {
+  max-width: 60px;
+  margin-right: 10px;
+}
+
+.postItem {
+  display: flex;
+  list-style: none;
+  margin-bottom: 10px;
+}
+
+.post {
+  padding-left: 20px;
+
+}
+
+
+.profileInput {
+  width: 150px;
+  padding: 0 5px;
+  background-color: brown;
+}

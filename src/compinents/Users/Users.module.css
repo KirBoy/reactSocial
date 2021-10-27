@@ -1,0 +1,16 @@
+.usersItem {
+  display: flex;
+  padding: 10px;
+}
+
+.usersAvatar {
+  max-width: 100px;
+}
+
+.usersBtn {
+  display: block;
+}
+
+.pagesActive {
+  background-color: brown;
+}
